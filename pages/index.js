@@ -18,7 +18,7 @@ export default function Home() {
 
         <div>
           <h1>
-            Testing - Philip{"'"}s edits
+            Testing - Philip edited page
           </h1>
         </div>
 
